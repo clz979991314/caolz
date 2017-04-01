@@ -18,7 +18,7 @@ public class UserControlle {
     private IUserService userService;
     
 	/**
-	 * 用户初始化 test2-git 修成功改
+	 * 用户初始化 test2-git one
 	 * @param request
 	 * @param model
 	 * @return
