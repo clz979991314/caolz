@@ -17,6 +17,12 @@ public class UserControlle {
 	@Resource
     private IUserService userService;
     
+	/**
+	 * 用户初始化
+	 * @param request
+	 * @param model
+	 * @return
+	 */
     @RequestMapping("/showUser")
     public String toIndex(HttpServletRequest request,Model model) {
         System.out.println("UserController showUser");
