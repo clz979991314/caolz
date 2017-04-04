@@ -18,7 +18,7 @@ public class UserControlle {
     private IUserService userService;
     
 	/**
-	 * 用户初始化 test2-git two 分支推送
+	 * 用户初始化 test2-git two 分支推送  ---模拟冲突
 	 * @param request
 	 * @param model
 	 * @return
